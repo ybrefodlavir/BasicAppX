@@ -1,0 +1,4 @@
+org/aplas/basicappx/MainActivity.java
+ org.aplas.basicappx.MainActivity
+org/aplas/basicappx/BuildConfig.java
+ org.aplas.basicappx.BuildConfig

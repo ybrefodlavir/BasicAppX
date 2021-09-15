@@ -32,6 +32,14 @@
         "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cell_style.xml.flat",
+        "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\drawable\\cell_style.xml"
+    },
+    {
+        "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_style.xml.flat",
+        "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\drawable\\header_style.xml"
+    },
+    {
         "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },

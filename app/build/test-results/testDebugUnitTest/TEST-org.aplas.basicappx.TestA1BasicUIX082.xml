@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.aplas.basicappx.TestA1BasicUIX082" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-15T02:08:52" hostname="LAPTOP-1K26SB3J" time="9.759">
+  <properties/>
+  <testcase name="check_01_ImageView_Properties" classname="org.aplas.basicappx.TestA1BasicUIX082" time="9.759"/>
+  <system-out><![CDATA[[Robolectric] org.aplas.basicappx.TestA1BasicUIX082.check_01_ImageView_Properties: sdk=28; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

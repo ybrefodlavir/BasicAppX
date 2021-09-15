@@ -1,5 +1,2 @@
-o[Robolectric] org.aplas.basicappx.TestA1BasicUIX092.check_01_TableLayout_Properties: sdk=28; resources=BINARY
+m[Robolectric] org.aplas.basicappx.TestA1BasicUIX082.check_01_ImageView_Properties: sdk=28; resources=BINARY
 TCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
-l[Robolectric] org.aplas.basicappx.TestA1BasicUIX092.check_02_TableRow_Properties: sdk=28; resources=BINARY
-l[Robolectric] org.aplas.basicappx.TestA1BasicUIX092.check_03_TableRow_Properties: sdk=28; resources=BINARY
-l[Robolectric] org.aplas.basicappx.TestA1BasicUIX092.check_04_TableRow_Properties: sdk=28; resources=BINARY

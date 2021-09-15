@@ -1,30 +1,4 @@
 org/aplas/basicappx/ViewTest.java
  org.aplas.basicappx.ViewTest
-org/aplas/basicappx/TestA1BasicUIX051.java
- org.aplas.basicappx.TestA1BasicUIX051
-org/aplas/basicappx/TestA1BasicUIX031.java
- org.aplas.basicappx.TestA1BasicUIX031
-org/aplas/basicappx/TestA1BasicUIX061.java
- org.aplas.basicappx.TestA1BasicUIX061
-org/aplas/basicappx/TestA1BasicUIX082.java
- org.aplas.basicappx.TestA1BasicUIX082
-org/aplas/basicappx/TestA1BasicUIX092.java
- org.aplas.basicappx.TestA1BasicUIX092
-org/aplas/basicappx/TestA1BasicUIX071.java
- org.aplas.basicappx.TestA1BasicUIX071
-org/aplas/basicappx/TestA1BasicUIX081.java
- org.aplas.basicappx.TestA1BasicUIX081
-org/aplas/basicappx/TestA1BasicUIX021.java
- org.aplas.basicappx.TestA1BasicUIX021
-org/aplas/basicappx/TestA1BasicUIX011.java
- org.aplas.basicappx.TestA1BasicUIX011
-org/aplas/basicappx/TestA1BasicUIX052.java
- org.aplas.basicappx.TestA1BasicUIX052
-org/aplas/basicappx/ResourceTest.java
- org.aplas.basicappx.ResourceTest
-org/aplas/basicappx/TestA1BasicUIX041.java
- org.aplas.basicappx.TestA1BasicUIX041
-org/aplas/basicappx/ElementTest.java
- org.aplas.basicappx.ElementTest
-org/aplas/basicappx/TestA1BasicUIX091.java
- org.aplas.basicappx.TestA1BasicUIX091
+org/aplas/basicappx/TestB1BasicActivityX011.java
+ org.aplas.basicappx.TestB1BasicActivityX011

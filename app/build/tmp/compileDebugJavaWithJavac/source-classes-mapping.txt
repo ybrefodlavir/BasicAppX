@@ -4,3 +4,5 @@ org/aplas/basicappx/BuildConfig.java
  org.aplas.basicappx.BuildConfig
 org/aplas/basicappx/Temperature.java
  org.aplas.basicappx.Temperature
+org/aplas/basicappx/Distance.java
+ org.aplas.basicappx.Distance

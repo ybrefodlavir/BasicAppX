@@ -2,3 +2,5 @@ org/aplas/basicappx/ViewTest.java
  org.aplas.basicappx.ViewTest
 org/aplas/basicappx/TestB1BasicActivityX011.java
  org.aplas.basicappx.TestB1BasicActivityX011
+org/aplas/basicappx/TestB1BasicActivityX021.java
+ org.aplas.basicappx.TestB1BasicActivityX021

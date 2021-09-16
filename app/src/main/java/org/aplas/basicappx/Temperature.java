@@ -4,7 +4,7 @@ public class Temperature {
     private double celcius;
 
         Temperature(){
-            this.celcius = 0;
+            celcius = 0;
         }
 
     public void setCelcius(double celcius) {

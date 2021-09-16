@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.aplas.basicappx.TestB1BasicActivityX021" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-09-15T06:28:47" hostname="LAPTOP-1K26SB3J" time="0.004">
-  <properties/>
-  <testcase name="check_01_Structure" classname="org.aplas.basicappx.TestB1BasicActivityX021" time="0.003"/>
-  <testcase name="check_02_Methods" classname="org.aplas.basicappx.TestB1BasicActivityX021" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

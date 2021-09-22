@@ -1,10 +1,12 @@
-org/aplas/basicappx/MainActivity.java
- org.aplas.basicappx.MainActivity
-org/aplas/basicappx/BuildConfig.java
- org.aplas.basicappx.BuildConfig
-org/aplas/basicappx/Temperature.java
- org.aplas.basicappx.Temperature
-org/aplas/basicappx/Distance.java
- org.aplas.basicappx.Distance
 org/aplas/basicappx/Weight.java
  org.aplas.basicappx.Weight
+org/aplas/basicappx/Temperature.java
+ org.aplas.basicappx.Temperature
+org/aplas/basicappx/BuildConfig.java
+ org.aplas.basicappx.BuildConfig
+org/aplas/basicappx/Distance.java
+ org.aplas.basicappx.Distance
+org/aplas/basicappx/MainActivity.java
+ org.aplas.basicappx.MainActivity
+ org.aplas.basicappx.MainActivity$1
+ org.aplas.basicappx.MainActivity$2

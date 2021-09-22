@@ -1,8 +1,20 @@
 org/aplas/basicappx/ViewTest.java
  org.aplas.basicappx.ViewTest
-org/aplas/basicappx/TestB1BasicActivityX011.java
- org.aplas.basicappx.TestB1BasicActivityX011
-org/aplas/basicappx/TestB1BasicActivityX031.java
- org.aplas.basicappx.TestB1BasicActivityX031
+org/aplas/basicappx/ElementTest.java
+ org.aplas.basicappx.ElementTest
 org/aplas/basicappx/TestB1BasicActivityX021.java
  org.aplas.basicappx.TestB1BasicActivityX021
+org/aplas/basicappx/TestB1BasicActivityX031.java
+ org.aplas.basicappx.TestB1BasicActivityX031
+org/aplas/basicappx/ResourceTest.java
+ org.aplas.basicappx.ResourceTest
+org/aplas/basicappx/TestB1BasicActivityX011.java
+ org.aplas.basicappx.TestB1BasicActivityX011
+org/aplas/basicappx/TestB1BasicActivityX061.java
+ org.aplas.basicappx.TestB1BasicActivityX061
+org/aplas/basicappx/TestB1BasicActivityX051.java
+ org.aplas.basicappx.TestB1BasicActivityX051
+org/aplas/basicappx/TestB1BasicActivityX062.java
+ org.aplas.basicappx.TestB1BasicActivityX062
+org/aplas/basicappx/TestB1BasicActivityX041.java
+ org.aplas.basicappx.TestB1BasicActivityX041

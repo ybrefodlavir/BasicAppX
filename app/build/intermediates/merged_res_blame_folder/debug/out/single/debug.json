@@ -24,6 +24,10 @@
         "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_distance.png.flat",
+        "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\drawable\\distance.png"
+    },
+    {
         "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\font_cambria.ttf.flat",
         "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\font\\cambria.ttf"
     },
@@ -50,6 +54,10 @@
     {
         "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\font_lucida.ttf.flat",
         "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\font\\lucida.ttf"
+    },
+    {
+        "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weight.png.flat",
+        "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\drawable\\weight.png"
     },
     {
         "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",

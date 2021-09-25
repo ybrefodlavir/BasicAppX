@@ -1,0 +1,3 @@
+s[Robolectric] org.aplas.basicappx.TestB1BasicActivityX092.check_01_ImageView_Properties: sdk=28; resources=BINARY
+TCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+o[Robolectric] org.aplas.basicappx.TestB1BasicActivityX092.check_02_FormulaBox_Event: sdk=28; resources=BINARY

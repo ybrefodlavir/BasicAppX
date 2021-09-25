@@ -5,9 +5,12 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.CheckBox;
+import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.RadioButton;
@@ -25,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private Spinner unitOri,unitConv;
     private RadioGroup unitType;
     private CheckBox roundBox,formBox;
-    private ImageView imgView;
+    private ImageView imgView,imgFormula;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         roundBox = (CheckBox) findViewById(R.id.chkRounded);
         formBox = (CheckBox) findViewById(R.id.chkFormula);
         imgView = (ImageView) findViewById(R.id.img);
+        imgFormula = (ImageView) findViewById(R.id.imgFormula);
 
         unitType.setOnCheckedChangeListener(
                 new RadioGroup.OnCheckedChangeListener() {
@@ -74,7 +78,56 @@ public class MainActivity extends AppCompatActivity {
                        }
                     }
                 }
+
         );
+        convertBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                doConvert();
+            }
+        });
+
+        unitOri.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                doConvert();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+                return;
+            }
+        });
+
+        unitConv.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                doConvert();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+                return;
+            }
+        });
+
+        roundBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                doConvert();
+            }
+        });
+
+        formBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                if (isChecked){
+                    imgFormula.setVisibility(View.VISIBLE);
+                }else{
+                    imgFormula.setVisibility(View.INVISIBLE);
+                }
+            }
+        });
     }
     private AlertDialog startDialog;
     protected void onStart(){
@@ -114,5 +167,13 @@ public class MainActivity extends AppCompatActivity {
             kata = f2.format(value);
         }
         return kata;
+    }
+
+    public void doConvert(){
+        RadioButton radioButton = (RadioButton) findViewById(unitType.getCheckedRadioButtonId());
+        double input = Double.parseDouble(inputTxt.getText().toString());
+        double output = convertUnit(radioButton.getText().toString(),
+                unitOri.getSelectedItem().toString(),unitConv.getSelectedItem().toString(),input);
+        outputTxt.setText(strResult(output,roundBox.isChecked()));
     }
 }

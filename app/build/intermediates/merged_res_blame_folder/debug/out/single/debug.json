@@ -86,5 +86,9 @@
     {
         "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_formula.png.flat",
+        "source": "D:\\Pelajaran\\Kuliah\\Semester 5\\Mobile\\New App\\BasicAppX\\app\\src\\main\\res\\drawable\\formula.png"
     }
 ]

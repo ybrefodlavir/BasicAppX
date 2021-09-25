@@ -1651,6 +1651,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable distance
+drawable formula
 drawable header_style
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -1894,6 +1895,7 @@ id ignore
 id ignoreRequest
 id image
 id img
+id imgFormula
 id info
 id inputText
 id invisible
